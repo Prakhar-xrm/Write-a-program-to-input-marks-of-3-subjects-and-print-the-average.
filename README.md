@@ -1,0 +1,1 @@
+# Write-a-program-to-input-marks-of-3-subjects-and-print-the-average.
